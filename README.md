@@ -1,5 +1,11 @@
 # PokéAgenda dos iniciais
 
+### README Translations:
+* [English](/README.en.md)
+* [Portuguese](/README.md)
+
+---
+
 ## 👨‍💻 O que foi desenvolvido:
 
   - Uma Pokédex que funciona com os pokémon iniciais.
