@@ -11,7 +11,7 @@
 
 -   A Pokédex that works with starter Pokémon.
 
-:bulb:**See a sample below**
+:bulb:**See a sample below:**
 
 ![project sample](./sample.gif)
 
