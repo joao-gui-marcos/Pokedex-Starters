@@ -1,4 +1,4 @@
-# PokéStarters schedule
+# Pokédex - Starters
 
 ### README Translations:
 
