@@ -1,4 +1,4 @@
-# PokéStarters schedule
+# Pokédex - Starters
 
 ### README Translations:
 
@@ -20,4 +20,4 @@
 -   Sediment knowledge about DOM manipulation
 -   How to use`data-attributes`to make JS more dynamic
 -   How to include**song**in your projects in this source code
--   Como criar botões usando o Skeuomorphismo no CSS
+-   How to create buttons using Skeuomorphism in CSS
