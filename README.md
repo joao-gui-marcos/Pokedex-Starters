@@ -1,4 +1,4 @@
-# PokéAgenda dos iniciais
+# Pokédex - Starters
 
 ### README Translations:
 * [English](/README.en.md)
