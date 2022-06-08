@@ -10,7 +10,7 @@
 
   - Uma Pokédex que funciona com os pokémon iniciais.
 
-:bulb: **Veja uma amostra a seguir**
+:bulb: **Veja uma amostra a seguir:**
 
   ![project sample](./sample.gif)
 
